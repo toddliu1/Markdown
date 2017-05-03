@@ -122,7 +122,7 @@ alt是图片无法正常显示时展示的文字；URL是图片的链接；text�
 
 	demo：
 
-	\!\[baidu_logo]\(https://www.baidu.com/img/bd_logo1.png) 
+	\!\[baidu_logo]\(https\://www\.baidu.com/img/bd_logo1.png) 
 	![baidu_logo](https://www.baidu.com/img/bd_logo1.png) 
 
 - 仓库内部图片
