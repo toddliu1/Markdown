@@ -230,6 +230,7 @@ syntax：\<font size=# face="字体" color=“颜色”>需要设置字体的文
 demo：
 
 这一行是原始大小的字体  
+
 <font size=6 face="微软雅黑" color="red">这一行是微软雅黑6磅红色文字</font>  
 
 其他html样式：  
@@ -264,26 +265,26 @@ syntax：
 demo：
 
 <table>
-	<tr>
-		<th>姓名</th>
-		<th>ID</th>
-		<th>家庭地址</th>
-		<th>电话号码</th>
-	</tr>
+<tr>
+	<th>姓名</th>
+	<th>ID</th>
+	<th>家庭地址</th>
+	<th>电话号码</th>
+</tr>
 
-	<tr>
-		<td>tom</td>
-		<td>11111</td>
-		<td>陕西西安</td>
-		<td>18282882</td>
-	</tr>
+<tr>
+	<td>tom</td>
+	<td>11111</td>
+	<td>陕西西安</td>
+	<td>18282882</td>
+</tr>
 
-	<tr>
-		<td>jack</td>
-		<td>22222</td>
-		<td>北京市</td>
-		<td>87848484</td>
-	</tr>
+<tr>
+	<td>jack</td>
+	<td>22222</td>
+	<td>北京市</td>
+	<td>87848484</td>
+</tr>
 
 </table>
 
@@ -306,4 +307,4 @@ demo： 插入空行用\<br />
 [md_logo]:images/md_logo.png
 
 
-#END  ……
+# END  ……
