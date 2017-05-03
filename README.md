@@ -208,7 +208,24 @@ demo:
 |Anna|03|newyork|38933|
 
 
-## 10. 注释
+## 10. Todo List(Github特有)
+
+syntax：待办事项列表使用 "\- \[\]"表示待办，"\- \[x\]"表示已办
+
+demo：
+
+人生最值得去做的几件事：  
+
+- [ ] 找一个对的人
+- [ ] 结交志同道合的朋友
+- [x] 直面难题，勇往直前
+- [x] 面对真实的自己
+- [x] 帮助身边的人
+- [ ] 经常旅行
+- [ ] 学习一门乐器
+- [x] 多读书学习
+
+## 11. 注释
 
 注释的方法有两种：
 
@@ -219,12 +236,12 @@ syntax：[^_^]:本行是注释
 syntax：\<!-- 下面是本文中的链接 -->  
 
 
-## 11. 兼容HTML语法
+## 12. 兼容HTML语法
 
 注意：MarkDown语法完美兼容html语法，但不可以在html代码内使用markdown  
 
 
-### 11.1 设置字体
+### 12.1 设置字体
 
 syntax：\<font size=# face="字体" color=“颜色”>需要设置字体的文字\</font>
 
@@ -245,7 +262,7 @@ demo：
 \<sup>表示上标：A<sup>x</sup>  
 \<sub>表示下标：B<sub>y</sub>  
 
-### 11.2 设置图片大小
+### 12.2 设置图片大小
 syntax：\<img src="path_to_picture" width="#" height="#">\</img>
 
 demo：
@@ -253,7 +270,7 @@ demo：
 ![md_logo]
 <img src="images/md_logo.png" width="64" height="64"></img>
 
-### 11.3 表格
+### 12.3 表格
 
 syntax：
 
@@ -289,7 +306,7 @@ demo：
 
 </table>
 
-### 11.4 段落标记
+### 12.4 段落标记
 
 - **\<p />表示段落**
 
