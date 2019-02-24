@@ -1,0 +1,17 @@
+[user]
+	name = toddliu
+	email = twl2041@126.com
+[alias]
+	st = status
+	ad = add
+	ci = commit
+	sh = show
+	cf = config
+	co = checkout
+	br = branch
+	last = log -1 HEAD
+	line = log --oneline
+	lg = log --pretty=format:\"%C(yellow)%h %C(blue)%ad %C(red)%d %C(reset)%s %C(green)[%cn]\" --decorate --date=short
+	hi = log --pretty=format:\"%C(yellow)%h %C(red)%d %C(reset)%s %C(green)[%an] %C(blue)%ad\" --topo-order --graph --date=short
+[credential]
+	helper = store
